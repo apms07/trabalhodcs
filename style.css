@@ -4,3 +4,6 @@ main { max-width: 480px; margin: 40px auto; padding: 0 16px; }
 h1 { margin-bottom: 16px; }
 button { padding: 10px 14px; border: 0; border-radius: 8px; background: #14a08c; color: #fff; cursor: pointer; }
 button:hover { opacity: .9; }
+/* #1 Criar tarefa */
+.add { display: flex; gap: 8px; }
+input { flex: 1; padding: 10px; border: 1px solid #ccd; border-radius: 8px; }
